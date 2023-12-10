@@ -1,2 +1,2 @@
 # PythonProject
-This is my own practice project with python
+This is my first practice project with python in GitHub
